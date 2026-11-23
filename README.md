@@ -108,4 +108,4 @@ O desafio segue um passo a passo de engenharia de prompt (definição do papel e
 
 ## Projeto relacionado
 
-Outro projeto similar, também desenvolvido por mim para o mesmo desafio, está disponível no repositório [meus-desafios-criativos](https://github.com/alvesfarias74/meus-desafios-criativos).
+Outro projeto similar, também desenvolvido por mim para outro bootcamp, está disponível no repositório [meus-desafios-criativos](https://github.com/alvesfarias74/meus-desafios-criativos).
