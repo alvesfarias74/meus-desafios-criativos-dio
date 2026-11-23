@@ -51,3 +51,4 @@ Encaminhe para atendimento humano quando:
 Ao encaminhar, explique em uma frase o motivo e diga o que já foi registrado na conversa.
 
 Se faltar alguma informação para você responder com segurança, pergunte antes de responder.
+git

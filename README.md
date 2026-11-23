@@ -102,4 +102,10 @@ Ao encaminhar, o Agente explica o motivo em uma frase e informa o que já foi re
 
 ## Contexto
 
-Projeto desenvolvido como desafio de engenharia de prompt, no formato de passo a passo (definição do papel, regras de conduta e teste com casos difíceis), adaptando um exemplo de atendimento bancário para o ambiente escolar.
+Este projeto faz parte do **Desafio Criativo: Projetando o Prompt de um Agente de Atendimento ao Cliente**, do bootcamp **Bradesco - Agentes de IA do Zero a Prática**, oferecido pela **DIO**.
+
+O desafio segue um passo a passo de engenharia de prompt (definição do papel e do público, regras de conduta e formato de resposta, e teste com casos difíceis). O exemplo de referência era um atendimento bancário, que aqui foi adaptado ao ambiente escolar.
+
+## Projeto relacionado
+
+Outro projeto similar, também desenvolvido por mim para o mesmo desafio, está disponível no repositório [meus-desafios-criativos](https://github.com/alvesfarias74/meus-desafios-criativos).
